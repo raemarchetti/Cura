@@ -422,7 +422,7 @@ msgstr "Não foi possível acessar informação de atualização."
 #, python-brace-format
 msgctxt "@info Don't translate {machine_name}, since it gets replaced by a printer name!"
 msgid "New features are available for your {machine_name}! It is recommended to update the firmware on your printer."
-msgstr "Novos recursos estão disponível para sua {machine_name}! Recomenda-se atualizar o firmware da impressora."
+msgstr "Novos recursos estão disponíveis para sua {machine_name}! Recomenda-se atualizar o firmware da impressora."
 
 #: /home/ruben/Projects/Cura/plugins/FirmwareUpdateChecker/FirmwareUpdateCheckerMessage.py:21
 #, python-format
