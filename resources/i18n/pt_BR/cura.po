@@ -371,7 +371,7 @@ msgstr "O Cura detectou perfis de material que não estão instalados ainda na i
 #: /home/ruben/Projects/Cura/plugins/UM3NetworkPrinting/src/Messages/MaterialSyncMessage.py:26
 msgctxt "@info:title"
 msgid "Sending materials to printer"
-msgstr "Enviando material para a impressora"
+msgstr "Enviando materiais para a impressora"
 
 #: /home/ruben/Projects/Cura/plugins/UM3NetworkPrinting/src/Messages/PrintJobUploadErrorMessage.py:15
 msgctxt "@info:text"
