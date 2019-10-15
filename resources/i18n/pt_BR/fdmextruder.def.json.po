@@ -234,4 +234,4 @@ msgstr "Ajusta o diâmetro do filamento usado. Use o valor medido do diâmetro d
 
 #~ msgctxt "machine_extruder_end_code description"
 #~ msgid "End g-code to execute whenever turning the extruder off."
-#~ msgstr "G-Code a ser executado antes de desligar o extrusor."
+#~ msgstr "G-Code final a ser executado antes de desligar o extrusor."
